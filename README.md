@@ -1,2 +1,2 @@
-# Visual-Studio-Code-Keyamp
-Visual-Studio-Code-Keyamp
+# Visual-Studio-Code-Keymap
+Visual-Studio-Code-Keymap
